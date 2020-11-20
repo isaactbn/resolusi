@@ -1,0 +1,4 @@
+RENCANA KEGIATAN SAYA 2 MINGGU KEDEPAN
+-Belajar ReactJS : belajar framework dan ES6
+-Belajar Front End Developer
+-Ikut magang
